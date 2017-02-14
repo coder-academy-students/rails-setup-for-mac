@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
+
 # Install Rails on Mac
 
 Hopefully you have a recent version of Mac OSX installed.
