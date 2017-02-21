@@ -43,17 +43,19 @@ Hopefully you have a recent version of Mac OSX installed.
     echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
   ```
 
-09. Install Ruby 2.4.0 and set it the working version.
+09. Close and then reopen your terminal.
+
+10. Install Ruby 2.4.0 and set it the working version.
   ```
     rbenv install 2.4.0 && rbenv local 2.4.0
   ```
 
-10. Install Rails 5
+11. Install Rails 5
   ```
     gem install rails --version 5.0.1 --no-ri --no-rdoc && rbenv rehash
   ```
 
-11. In the terminal enter ```rails -v``` to confirm it is installed
+12. In the terminal enter ```rails -v``` to confirm it is installed
 
 
 You're done!
